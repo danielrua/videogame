@@ -1,0 +1,21 @@
+descripcion del juego
+Nombre del juego: Exploradores del Espacio
+
+Objetivo: El jugador debe completar una serie de desafíos en diferentes niveles, utilizando las leyes de la física para superar obstáculos y desafíos en diferentes planetas. El objetivo final es llegar a Marte y convertirse en el mejor explorador espacial.
+
+Mecánica del juego: El juego se desarrolla en un ambiente 2D con gráficos atractivos que representan diferentes planetas del sistema solar, incluyendo la Tierra, la Luna y Marte. La física del juego es realista y se utiliza para controlar el movimiento del personaje principal.
+
+El jugador controla al personaje principal, que puede moverse hacia la izquierda, hacia la derecha y saltar. El movimiento del personaje se rige por las leyes del movimiento mecánico en un ambiente espacial, por lo que el jugador debe tener en cuenta la aceleración, la velocidad y la fuerza aplicada para mover al personaje.
+
+El juego incluye diferentes obstáculos que el jugador debe superar utilizando la física. Por ejemplo, el jugador puede enfrentarse a gravedad reducida, superficies resbaladizas, obstáculos en el camino y peligros del espacio exterior. Cada nivel se vuelve más desafiante y requiere que el jugador utilice más habilidades físicas para superarlo.
+
+En cada nivel, el jugador debe recolectar recursos para mejorar su equipo, comprar mejoras y desbloquear nuevas habilidades. Los recursos se pueden encontrar en diferentes lugares del nivel, como en el suelo o en cofres escondidos.
+
+Características del juego:
+
+Movimiento mecánico realista que se utiliza para controlar el personaje principal en un ambiente espacial.
+Ambiente 2D atractivo con gráficos de alta calidad que representan diferentes planetas del sistema solar.
+Desafíos que requieren que el jugador utilice la física para superarlos en un ambiente espacial.
+Una gran cantidad de niveles para explorar en diferentes planetas del sistema solar.
+Recursos para recolectar y mejorar el equipo del jugador.
+Habilidades desbloqueables que mejoran la experiencia del juego.
